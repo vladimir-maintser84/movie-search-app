@@ -7,7 +7,7 @@
 
 ## Stack 
 
-[![Stack](https://skillicons.dev/icons?i=java,maven,spring,thymeleaf)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=java,maven,spring)](https://skillicons.dev) Thymeleaf
 
 ## Setup 
 
