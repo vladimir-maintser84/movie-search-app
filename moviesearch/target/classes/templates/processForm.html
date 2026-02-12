@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Your movie</title>
+</head>
+<body>
+<img th:src="${result.posterURI}" alt="poster" class="img">
+<h1 th:text="${result.title}" class="title"></h1>
+<span th:text="${result.description}" class="plot"></span>
+<br>
+<span th:text="'IMDB rating: ' + ${result.rating}" class="rating"></span>
+
+</body>
+</html>
